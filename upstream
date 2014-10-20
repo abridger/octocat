@@ -1,1 +1,1 @@
-Explain what the 'upstream' remote is usually used for, in your own words
+An upstream remote is the repo from which the local repo will pull, or to which it will push, its changes. Since git repos are distributed, and therefore do not have a hierarchy, upstream/downstream refers to the flow of data. The remote repo is upstream from the local repo.
