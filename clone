@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+'git clone' clones a remote repository to a local one, from the remote repository's URL. Cloning the remote repository copies the contents of the remote to the local directory, initiates the local git repo, and adds the original as a remote to the local repo, so that it will track changes. The cloned repo is forked from the currently active branch of the original repo.
